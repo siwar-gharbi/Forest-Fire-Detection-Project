@@ -7,8 +7,10 @@ In this project, the intention is to build a forest fire detection system using 
 - Dot matrix perf board
 - MQ-2
 - DHT11
-## Circuit Diagram
-https://photos.app.goo.gl/uLPiRC8bgvmKZM9K7
+## Circuit Diagram!
+
+[Uploading projet.png…]()
+
 ## Interface IOT
 https://photos.app.goo.gl/DJWHaG7iTfrWQvcn6
 https://photos.app.goo.gl/oKcXYehHQ233Nf8J8
